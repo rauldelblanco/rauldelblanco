@@ -5,8 +5,11 @@ I'm a 20 years old Computer Science student at the University of A Coruña.
 ## You can find me here:
 
 - <a href="mailto:raulfdb72@gmail.com">Mail</a>
-- [Personal Instagram](https://www.instagram.com/rauldelblanco/)
-- [Personal Twitter](https://twitter.com/Raul__72/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Raul__72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raul__72" height="30" width="40" /></a>
+<a href="https://www.instagram.com/r.delblancoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.delblancoo" height="30" width="40" /></a>
+
 ## Programming languages:
 
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
