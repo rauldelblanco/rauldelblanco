@@ -6,7 +6,7 @@ I'm a 20 years old Computer Science student at the University of A Coruña.
 
 - <a href="mailto:raulfdb72@gmail.com">Mail</a>
 - [Personal Instagram](https://www.instagram.com/rauldelblanco/)
-
+- [Personal Twitter](https://twitter.com/Raul__72/)
 ## Programming languages:
 
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
