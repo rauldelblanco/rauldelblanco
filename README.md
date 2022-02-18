@@ -23,7 +23,6 @@ I'm a 20 years old Computer Science student at the University of A Coruña.
 
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>](https://www.jetbrains.com/es-es/idea/download/#section=mac)
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/cl.png"></code>](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960748608&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KEbcZseC-Cc5svP1c2Yg-sULADbh2nJHQ-t-WY-CB1s7LC-VKPrKcoaAvfNEALw_wcB)
-[<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/vscode.png"></code>](https://visualstudio.microsoft.com/es/downloads/)
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/sub.png"></code>](https://www.sublimetext.com/)
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/Packet Tracer.png"></code>](https://www.netacad.com/es/courses/packet-tracer)
 [<code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/dropbox.png"></code>](https://www.dropbox.com/business/landing-t61fl?_tk=paid_sem_goog_biz_b&_camp=16015479502&_kw=dropbox|e&_ad=515974508130||c&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KF56DXpjGEdNyAPY4UIAK_gwW_O6l9XKhYaDyxaSckyQ-yTYUIh_WAaAhOEEALw_wcB)
