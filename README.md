@@ -2,6 +2,10 @@
 
 I'm a 20 years old Computer Science student at the University of A Coruña.
 
+## My stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rauldelblanco&show_icons=true&theme=radical) 
+
 ## You can find me here:
 
 <a href="mailto:raulfdb72@gmail.com"><code><img height="30" src="https://raw.githubusercontent.com/rauldelblanco/rauldelblanco/master/Img/gmail.png"></code></a>
