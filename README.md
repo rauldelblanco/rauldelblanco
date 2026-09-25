@@ -19,7 +19,7 @@ A software developer based in Spain who enjoys connecting **web development**, *
 - 🌐 Building with **React, Next.js, Java and Spring Boot**.
 - 🧠 Working with **RAG, multi-agent systems and process automation**.
 - ⚙️ Interested in **event-driven systems, DDD and clean architecture**.
-- 💻 Most of my coding happens in **VS Code**, with **Claude Code and GitHub Copilot** in my development toolkit.
+- 💻 Most of my coding happens in **VS Code**, with AI tools as part of my development workflow.
 - 💬 Happy to talk about **full stack development, developer tools and generative AI**.
 
 ## 🛠️ My toolkit
@@ -34,6 +34,12 @@ A software developer based in Spain who enjoys connecting **web development**, *
 
 <img src="https://skillicons.dev/icons?i=mongodb,kafka,docker,git,github,vscode&theme=dark&perline=6" alt="MongoDB, Kafka, Docker, Git, GitHub and VS Code" />
 
+**Generative AI tools**
+
+<img height="32" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img height="32" src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img height="32" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+
 **AI & architecture**
 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
@@ -45,62 +51,17 @@ A software developer based in Spain who enjoys connecting **web development**, *
 
 </div>
 
-## 🤖 Generative AI & developer tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
-
-</div>
-
-I use **Claude Code and GitHub Copilot** for AI-assisted development, and build generative AI solutions with **RAG, LangGraph and multi-agent workflows**. I'm particularly interested in connecting these systems to real applications and useful automation.
-
 ## 🚀 What I like building
 
 | 🌐 Web experiences | ⚙️ Connected systems | 🧠 Applied AI |
 | :--- | :--- | :--- |
 | React and Next.js applications, from the interface to backend APIs and data integration. | Java/Spring Boot services, event-driven communication and clear domain boundaries. | Retrieval-augmented generation, agent orchestration and automated workflows. |
 
-**Engineering interests:** clean code · hexagonal architecture · domain-driven design · SQL & NoSQL · collaborative development
+## 🧭 Things I'm curious about
 
-## 📂 Explore my code
-
-Some of the public coursework behind my software engineering foundations.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🧩 Software Design</h3>
-<p>Software design coursework in Java.</p>
-<p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" /></p>
-<a href="https://github.com/rauldelblanco/GEI-2-DS">Explore repository →</a>
-</td>
-<td width="50%" valign="top">
-<h3>🧠 Intelligent Systems</h3>
-<p>Intelligent systems coursework in Java.</p>
-<p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" /></p>
-<a href="https://github.com/rauldelblanco/GEI-2-SI">Explore repository →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>⚡ Concurrency & Parallelism</h3>
-<p>Concurrent and parallel programming coursework in C.</p>
-<p><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /></p>
-<a href="https://github.com/rauldelblanco/GEI-2-CP">Explore repository →</a>
-</td>
-<td width="50%" valign="top">
-<h3>🔍 Algorithms</h3>
-<p>Algorithms coursework in C.</p>
-<p><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /></p>
-<a href="https://github.com/rauldelblanco/GEI-2-Algoritmos">Explore repository →</a>
-</td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/rauldelblanco?tab=repositories"><strong>Browse all repositories ↗</strong></a></p>
+- 🧩 **Beyond the prompt** — connecting RAG and agents to useful applications.
+- 🔄 **Systems that talk to each other** — events, APIs and workflow automation.
+- 🛠️ **The craft of building software** — clean code, thoughtful architecture and better developer tools.
 
 ## 📊 GitHub at a glance
 
